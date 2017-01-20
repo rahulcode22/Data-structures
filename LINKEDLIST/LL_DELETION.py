@@ -21,5 +21,23 @@ def delete(key):
 
 
 #delete a node at given poisition
+def delete(position):
+    if head is None:
+        return
+    temp=head
+    #previous node of the node to be deleted
+    for i in range(position-1):
+        temp=temp.next
+        if temp is None:
+            break
+    #if position is more than no of nodes
+    if temp.next is None:
+        return
+    #next pointer which stores next node of the node to be deleted
+    next=temp.next.next
+    temp.next=None
+    temp.next=next
+    
+    
         
     
