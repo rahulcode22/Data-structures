@@ -24,6 +24,7 @@ def insertafter(prev_node,data):
 #Add a Node at end
 def insertend(head,data):
     new_node=Node(data)
+    last=head
     #This new node is going to be last node,so make it as NULL
     new_node.next=None
     if head is not None:
