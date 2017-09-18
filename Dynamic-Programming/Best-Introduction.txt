@@ -1,0 +1,30 @@
+#Dynamic Problem Simple Example
+#exxplained in an easy way
+A *writes down "1+1+1+1+1+1+1+1 =" on a sheet of paper*
+
+A : "What's that equal to?"
+B : *counting* "Eight!"
+
+A *writes down another "1+" on the left*
+A : "What about that?"
+B : *quickly* "Nine!"
+A : "How'd you know it was nine so fast?"
+A : "You just added one more"
+A : "So you didn't need to recount because you remembered there were eight! Dynamic Programming is just a fancy way to say 'remembering stuff to save time later'"
+
+This convo has the essence of Dynamic Programming
+
+The idea is very simple, If you have solved a problem with the given input, then save the result for future reference, so as to avoid solving the same problem again.. shortly ‘Remember your Past’.
+If the given problem can be broken up in to smaller sub-problems and these smaller subproblems are in turn divided in to still-smaller ones, and in this process, if you observe some overlapping subproblems, then its a big hint for DP.
+Also, the optimal solutions to the subproblems contribute to the optimal solution of the given problem.
+For Example Consider this simple recursive fibonacci Algorithm
+
+def fibo(n):
+    if n<=1:
+        return n
+    return fibo(n-1) + fibo(n-2)
+
+Now let us try to think about complexity of above code.We all know that it will lead
+to exponential in terms of n
+What we will do is we will try to save the value computed so that we donot have
+to recompute it again.
