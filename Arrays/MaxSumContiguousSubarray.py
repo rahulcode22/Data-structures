@@ -1,3 +1,5 @@
+#Find the contiguous subarray within an array 
+#(containing at least one number) which has the largest sum.
 from sys import maxint
     def maxSubArray(self, a):
         max_so_far = -maxint - 1
