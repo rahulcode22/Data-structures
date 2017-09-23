@@ -16,3 +16,6 @@ def firstMissingPositive(arr):
             return i+1
 
     return i+2
+
+arr = [1,2,0]
+print firstMissingPositive(arr)
