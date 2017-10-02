@@ -1,7 +1,6 @@
 #Given an m x n matrix of 0s and 1s,
 #if an element is 0, set its entire row and column to 0.
 
-Do it in place.
 def setZeroes(matrix):
     if matrix is None:
         return
