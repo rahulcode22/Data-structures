@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/ib-logo-square.png" alt="ib-logo-square.png">
+<!-- <img src="img/ib-logo-square.png" alt="ib-logo-square.png"> -->
 </p>
 
 # InterviewBit Solutions
@@ -10,8 +10,8 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 
 # Topics
 
-*   [Time Complexity](https://github.com/Alex-Keyes/InterviewBit#Time+Complexity)
-*   [Arrays](https://github.com/Alex-Keyes/InterviewBit#Arrays)
+*   [Time Complexity]
+*   [Arrays](https://github.com/rahulcode22/Data-structures/tree/master/Arrays)
 *   [Math](https://github.com/Alex-Keyes/InterviewBit#Math)
 *   [Binary Search](https://github.com/Alex-Keyes/InterviewBit#Binary+Search)
 *   [Linked Lists](https://github.com/Alex-Keyes/InterviewBit#Linked+Lists)
