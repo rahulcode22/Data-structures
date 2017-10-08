@@ -39,6 +39,6 @@ def computeLPSArray(pat,m,lps):
                 i += 1
 
 #Now time to test
-txt = "ABABDABACDABABCABAB"
-pat  = "ABABCABAB"
+txt = "abdefgh"
+pat  = "defg"
 KMPSearch(pat,txt)
