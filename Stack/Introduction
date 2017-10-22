@@ -1,7 +1,7 @@
 -->It is a linear data structure.
 -->Follows a paarticular order in which the operations are performed.'
 -->Order may be FILO or LIFO
--->Main operations are 
+-->Main operations are
   1)push-->Add an item in the stack
   2)pop-->removes an item in the stack
   3)peek-->get the topmost item.
