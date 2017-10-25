@@ -18,7 +18,7 @@ def reverse(string):
     n=len(string)
     #create an empty stack
     stack=createstack()
-    #pushing alll characters of string to stack
+    #pushing all characters of string to stack
     for i in range(n):
         push(stack,string[i])
     #make the string empty
@@ -31,5 +31,3 @@ def reverse(string):
 string="Python"
 string =reverse(string)
 print ("reversed string" +string)
-        
-        
