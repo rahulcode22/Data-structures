@@ -12,6 +12,6 @@ def singlenum(arr):
     res = 0
     for i in arr:
         res ^= i
-        print res
+    return res
 arr= [1,2,2,3,1]
-singlenum(arr)
+print singlenum(arr)
