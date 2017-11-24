@@ -5,7 +5,7 @@
 # InterviewBit Solutions
 
 
-![languages-Python%20&%20C++-orange.svg](https://img.shields.io/badge/languages-Python%20&%20C++-orange.svg) [![License-GNU-red.svg](https://img.shields.io/badge/License-GNU-red.svg)](https://img.shields.io/badge/License-GNU-red.svg) [![codebeat-A-brightgreen.svg](https://img.shields.io/badge/codebeat-A-brightgreen.svg)](https://codebeat.co/projects/github-com-alex-keyes-interviewbit)
+![languages-Python%20&%20C++-orange.svg](https://img.shields.io/badge/languages-Python%20&%20C++-orange.svg) [![License-GNU-red.svg](https://img.shields.io/badge/License-GNU-red.svg)](https://img.shields.io/badge/License-GNU-red.svg)
 =======
 
 This is a repository of solutions to all problems I've solved on InterviewBit. I am not quite sure exactly how many problems there are on the website, but I'll be updating this with every problem I solve. Please issue a pull request if you think you have a better solution or something I could improve upon.
