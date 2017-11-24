@@ -19,5 +19,11 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 *   [Binary Search](https://github.com/rahulcode22/Data-structures/tree/master/Binary-Search)
 *   [String](https://github.com/rahulcode22/Data-structures/tree/master/String)
 *   [Stack and Queue](#)
-<<<<<<< HEAD
+*   [Bit Manipulation](https://github.com/rahulcode22/Data-structures/tree/master/Bit-Manipulation)
+*   [Two Pointers](https://github.com/rahulcode22/Data-structures/tree/master/Two-Pointers)
+*   [Backtracking](https://github.com/rahulcode22/Data-structures/tree/master/Backtracking)
+*   [Linked List](https://github.com/rahulcode22/Data-structures/tree/master/Linked-List)
+*   [Trees](https://github.com/rahulcode22/Data-structures/tree/master/Trees)
+*   [Dynamic Programming](https://github.com/rahulcode22/Data-structures/tree/master/Dynamic-Programming)
+*   [Greedy](https://github.com/rahulcode22/Data-structures/tree/master/Greedy)
 =======
