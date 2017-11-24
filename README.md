@@ -26,4 +26,3 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 *   [Trees](https://github.com/rahulcode22/Data-structures/tree/master/Trees)
 *   [Dynamic Programming](https://github.com/rahulcode22/Data-structures/tree/master/Dynamic-Programming)
 *   [Greedy](https://github.com/rahulcode22/Data-structures/tree/master/Greedy)
-=======
