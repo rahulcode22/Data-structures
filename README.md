@@ -21,6 +21,3 @@ This is a repository of solutions to all problems I've solved on InterviewBit. I
 *   [Stack and Queue](#)
 <<<<<<< HEAD
 =======
-
-
->>>>>>> f25736fcc5701ad2c7c6fe7a9ef9ce691d7acab1
