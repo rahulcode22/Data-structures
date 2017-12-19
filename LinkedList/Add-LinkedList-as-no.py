@@ -24,6 +24,6 @@ def SumLinkedList(first,second):
         if second:
             second = second.next
 
-    if carry > 0
-    temp.next = Node(carry)
+    if carry > 0:
+        temp.next = Node(carry)
     return head
