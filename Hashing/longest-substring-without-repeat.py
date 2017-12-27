@@ -33,4 +33,3 @@ class Solution:
             prev_best = min(i-prev[A[i]], prev_best+1)
             best = max(best, prev_best)
         return best
-Close
